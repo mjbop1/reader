@@ -1,4 +1,5 @@
 # Reader for iPrint
+# Canyon Gargon and Michael Blaisdell
 
 # Import the modules
 import requests
