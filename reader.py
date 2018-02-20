@@ -1,6 +1,7 @@
 # Reader for iPrint
 # Canyon Gargon and Michael Blaisdell
 # Version 1.0
+
 # Import the modules
 import requests
 
@@ -31,7 +32,3 @@ while cardnum != "q":
        print (s.text)
        print (s.status_code)
        print (s)
-       
-       #test comment
- 
-       
