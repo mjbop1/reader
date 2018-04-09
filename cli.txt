@@ -1,0 +1,305 @@
+    1  cd /etc
+    2  ls
+    3  nano
+    4  sudo nano /etc/rc.local
+    5  reboot
+    6  top
+    7  sudo nano /etc/rc.local
+    8  tty
+    9  raspi-config
+   10  sudo raspi-config
+   11  reboot
+   12  0713433781
+   13  nano
+   14  l
+   15  ls
+   16  cd python_games/
+   17  ls
+   18  nano reader.py
+   19  reader.py
+   20  python reader.py
+   21  clear
+   22  dir
+   23  python3 reader.py
+   24  nano
+   25  nano /etc/lc.local
+   26  cd /etc
+   27  ls
+   28  cd lc.local
+   29  cd rc.local
+   30  nano rc.local
+   31  sudo nano rc.local
+   32  0713433781
+   33  ifconfig
+   34  rasp-config
+   35  raspi-config
+   36  sudo raspi-config
+   37  0713433781
+   38  sudo raspi-config
+   39  cd /bin/sh
+   40  cd /
+   41  md bbt
+   42  mkdir bbt
+   43  sudo mkdir reader
+   44  cd reader
+   45  nano reader.sh
+   46  cd 
+   47  cd /
+   48  ls
+   49  sudo rmdir reader
+   50  ls
+   51  cd home
+   52  ls
+   53  cd pi
+   54  ls
+   55  sudo mkir reader
+   56  sudo mkdir reader
+   57  cd reader
+   58  sudo nano reader.sh
+   59  sudo chmod 755 reader.sh
+   60  cd ..
+   61  cd python_games/
+   62  cp reader.py ../reader/
+   63  sudo cp reader.py ../reader/
+   64  cd ..
+   65  cd reader
+   66  ls
+   67  sh reader.sh
+   68  cd /etc
+   69  sudo nano rc.local
+   70  cd /home/pi
+   71  sudo crontab -e
+   72  sudo reboot
+   73  sudo crontab -e
+   74  cd /etc
+   75  sudo nano rc.local
+   76  0713433781
+   77  cd /etc
+   78  sudo nano rc.local
+   79  cd /home/pi/reader
+   80  ls
+   81  sudo nano reader.sh
+   82  ls
+   83  sed -i "1 i if [ \`tty\` == '/dev/tty1' ]; then /home/pi/reader/reader.sh;sudo halt; fi"  .bashrc
+   84  sudo sed -i "1 i if [ \`tty\` == '/dev/tty1' ]; then /home/pi/reader/reader.sh;sudo halt; fi"  .bashrc
+   85  sudo nano .bashrc
+   86  cd /etc
+   87  sudo nano rc.local
+   88  ls
+   89  cd reader
+   90  dir
+   91  sudo nano reader.sh
+   92  cd /etc
+   93  sudo nano rc.local
+   94  sudo nan
+   95  sudo nano .bashrc
+   96  sudo raspi-config
+   97  halt
+   98  sudo halt
+   99   
+  100  sudo nano .bashrc
+  101  sudo raspi-config
+  102  sudo nano rc.local
+  103  cd /etc
+  104  sudo nano rc.local
+  105  ls
+  106  cd python_games/
+  107  ls
+  108  sudo crontab
+  109  sudo nano .bashrc
+  110  sudo nano rc.local
+  111  cd /etc
+  112  sudo nano rc.local
+  113  cd /home/pi
+  114  ls
+  115  cd reader
+  116  ls
+  117  nano reader.sh
+  118  nano reader.py
+  119  python
+  120  sudo pip install keyboard
+  121  nano reader.py
+  122  sudo nano reader.py
+  123  reader.py
+  124  ls
+  125  python reader.py
+  126  sudo python3 reader.py
+  127  cd /usr/local/lib
+  128  ls
+  129  cd python2.7
+  130  ls
+  131  cd dist-packages/
+  132  ls
+  133  dir
+  134  cp keyboard ../python3.5/
+  135  ls
+  136  cd keyboard
+  137  ls
+  138  cd /home/pi
+  139  ls
+  140  sudo pip install keyboard
+  141  cd /usr/local/lib
+  142  pwd
+  143  ls
+  144  cp -R ~/python2.7/keyboard/ ~/python3.5/keyboard/
+  145  l
+  146  la
+  147  ls
+  148  cd python2.7
+  149  ls
+  150  dist-packages/
+  151  ls
+  152  cd dist-packages/
+  153  ls
+  154  cd ..
+  155  ls
+  156  cd ..
+  157  ls
+  158  cd ..
+  159  ls
+  160  cp -R ~/python2.7/dist-packages/keyboard/ ~/python3.5/dist-packages/keyboard/
+  161  cp -R /usr/local/lib/python2.7/dist-packages/keyboard/ /usr/local/lib/python3.5/dist-packages/keyboard/
+  162  sudo cp -R /usr/local/lib/python2.7/dist-packages/keyboard/ /usr/local/lib/python3.5/dist-packages/keyboard/
+  163  cd /home/pi
+  164  ls
+  165  cd reader
+  166  ls
+  167  sudo python3 reader.py
+  168  sudo nano reader.py
+  169  sudo python3 reader.py
+  170  sudo nano reader.py
+  171  sudo python3 reader.py
+  172  sudo nano reader.py
+  173  sudo python3 reader.py
+  174  reboot
+  175  sudo reboot -now
+  176  sudo reboot
+  177  ifconfig
+  178  abc
+  179  sudo reboot
+  180  ls
+  181  cd reader
+  182  sudo nano reader.py
+  183  sudo reboot
+  184  sudo nano reader.py
+  185  cd reader
+  186  sudo nano reader.py
+  187  sudo python3 reader.py
+  188  sudo nano reader.py
+  189  sudo python3 reader.py
+  190  sudo nano reader.py
+  191  sudo python3 reader.py
+  192  sudo nano reader.py
+  193  sudo python3 reader.py
+  194  sudo nano reader.py
+  195  sudo python3 reader.py
+  196  sudo reboot
+  197  ls
+  198  cd reader/
+  199  ls
+  200  sudo reboot
+  201  cd reader/
+  202  sudo nano reader.py
+  203  sudo reboot
+  204  cd reader/
+  205  sudo nano reader.py
+  206  sudo python3 reader.py
+  207  sudo nano reader.py
+  208  sudo python3 reader.py
+  209  sudo nano reader.py
+  210  sudo python3 reader.py
+  211  sudo reboot
+  212  cd reader/
+  213  sudo nano reader.py
+  214  sudo reboot
+  215  cd #reader
+  216  ls
+  217  cd reader
+  218  ls
+  219  sudo nano /etc/rc.local
+  220  sudo crontab
+  221  cd /etc
+  222  cd crontab
+  223  ls
+  224  cd crontab
+  225  sudo nano crontab
+  226  ls
+  227  cd rc.local
+  228  cd rc.local
+  229  ls
+  230  dir
+  231  sudo nano cron.d
+  232  dir
+  233  cd /reader
+  234  cd /home/pi/reader
+  235  ls
+  236  ls
+  237  ls -l
+  238  cd ..
+  239  cd reader.old
+  240  ls
+  241  ls -l
+  242  cd ..
+  243  cd reader
+  244  ls
+  245  ifconfig
+  246  cd /home/pi
+  247  ls
+  248  cp reader.old/reader.sh reader/reader.sh
+  249  cd reader
+  250  ls
+  251  ls -l
+  252  reboot
+  253  halt
+  254  sudo halt
+  255  sudo nano reader.py
+  256  cd reader
+  257  sudo nano reader.py
+  258  sudo halt
+  259  sudo reboot
+  260  cd reader
+  261  sudo nano reader.py
+  262  sudo reboot
+  263  cd /reader
+  264  ls
+  265  cd readerder
+  266  cd reader
+  267  ls
+  268  sudo nano reader.py
+  269  ls
+  270  sudo nano reader.sh
+  271  sudo nano reader.py
+  272  sudo python3 read.py
+  273  sudo python3 reader.py
+  274  1064
+  275  sudo nano reader.py
+  276  sudo python3 reader.py
+  277  reboot
+  278  sudo reboot
+  279  ls
+  280  cd reader
+  281  ls
+  282  nano reader.sh
+  283  nano reader.py
+  284  sudo nano reader.py
+  285  cp reader.py emailtest.py
+  286  sudo nano emailtest.py
+  287  sudo python3 emailtest.py
+  288  sudo nano emailtest.py
+  289  sudo python3 emailtest.py
+  290  sudo nano emailtest.py
+  291  sudo python3 emailtest.py
+  292  sudo nano emailtest.py
+  293  sudo python3 emailtest.py
+  294  sudo nano reader.py
+  295  sudo python3 reader.py
+  296  sudo nano emailtest.py
+  297  sudo nano reader.py
+  298  sudo python3 reader.py
+  299  sudo nano history
+  300  sudo nano HISTORY
+  301  ifconfig
+  302  nano .history
+  303  history -a
+  304  history
+  305  history > cli.txt
